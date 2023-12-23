@@ -1,5 +1,7 @@
 # Lab Meetings
 
+(This lab meeting structure has been modified from Kirstie Whitaker's GitHub [Onboarding](https://github.com/WhitakerLab/Onboarding) page)
+
 As the lab grows, the importance of sharing technical skills, domain expertise and tips and tricks for working effectively grows with it.
 Lab meetings are a safe space for all members of the group to build communities and trouble shoot.
 
