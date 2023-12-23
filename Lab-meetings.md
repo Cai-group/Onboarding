@@ -9,7 +9,6 @@ The [Cai Lab calendar](https://calendar.google.com/calendar/embed?src=7nar31c6ni
 
 **Every lab member is expected to participate in the lab meetings.**
 This document will talk you through the expectations for participation [before](#preparing-for-lab-meeting), [during](#participation-during-lab-meeting) and [after](#publishing-a-summary-blog-post-after-lab-meeting) lab meeting.
-There is also a long [motivation](#motivation) section about why we've designed the meetings this way.
 
 ## Participation in lab meeting
 
@@ -35,6 +34,7 @@ Your responsibilities as chair are to:
 2. Plan an agenda. We can discuss research, polish a manuscript/talk, give a workshop, or read a really exciting paper that does not need to be plant related.  
 3. Facilitate the conversation during the meeting
   This includes making sure that everyone has a chance to participate, and that everyone complies with the Cai Lab [code of conduct](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md).
+  
   **Monitoring an effective discussion is a very important skill!**
   Being in charge of managing the time, coordinating everyone's participation and facilitating a productive conversation is a lot of responsibility. Mastering this skill will serve you well in future collaborations and as you advance through your career (inside of academia and beyond).
 
