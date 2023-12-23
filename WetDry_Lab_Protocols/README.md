@@ -1,3 +1,3 @@
 # Lab safety and data management
 
-Among all of the things I want to say about being on a bench or in front of a computer is safety, **personal safety and data safety**.
+Among everything I want to say about being on a bench or in front of a computer, **personal and data safety** are the most important ones.
