@@ -2,10 +2,11 @@
 
 Welcome to the Cai Lab@UF! Whether you're a seasoned researcher or a newcomer to the world of laboratory science, we're thrilled to have you join our team. This repository serves as your guide to the onboarding process, designed to provide you with all the necessary resources, information, and guidance to kickstart your journey effectively.
 
-About Us
+## About Us
+
 Our lab is dedicated to understand the patterns and processes of angiosperm evolution. We strive to foster an inclusive and collaborative environment where curiosity thrives, and innovative research flourishes.
 
-Onboarding Process
+## Onboarding Process
 1. Introduction to Lab Policies and Safety Procedures
 Safety is our top priority. Familiarize yourself with our lab's safety protocols, including proper handling of hazardous materials, emergency procedures, and personal protective equipment (PPE) requirements.
 
