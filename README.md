@@ -1,6 +1,6 @@
-# Onboarding
+# Welcome to the Cai Lab@UF! 
 
-Welcome to the Cai Lab@UF! Whether you're a seasoned researcher or a newcomer to the world of laboratory science, we're thrilled to have you join our team. This repository serves as your guide to the onboarding process, designed to provide you with all the necessary resources, information, and guidance to kickstart your journey effectively.
+Whether you're a seasoned researcher or a newcomer to the world of laboratory science, we're thrilled to have you join our team. This repository serves as your guide to the onboarding process, designed to provide you with all the necessary resources, information, and guidance to kickstart your journey effectively.
 
 ## About Us
 
