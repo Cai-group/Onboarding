@@ -43,7 +43,7 @@ We're here to support your growth and development as a researcher. Access a weal
 [Link to Mentorship Program]
 
 ## Get Started
-Ready to dive in? Begin your onboarding journey by exploring the resources provided in this repository. If you have any questions or need assistance, don't hesitate to reach out to your supervisor or a fellow team member.
+Ready to dive in? Begin your onboarding journey by exploring the resources provided in this repository. If you have any questions or need assistance, don't hesitate to reach out to Liming Cai (cail@ufl.edu) or a fellow team member.
 
 Welcome aboard, and let's embark on an exciting scientific journey together!
 
