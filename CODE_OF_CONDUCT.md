@@ -20,7 +20,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Members of the community who violate these rules - no matter how much they have contributed to the Whitaker lab, or how specialised their skill set - will be approached by Kirstie Whitaker. If inappropriate behaviour persists after a discussion with Kirstie, the contributer will be asked to discontinue their participation in Whitaker lab projects.
 
-**To report an issue** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
+**To report an issue** please contact [Liming Cai](https://github.com/KirstieJane). All communication will be treated as confidential.
 
 ### Flexible working hours
 
