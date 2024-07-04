@@ -9,7 +9,7 @@ Our lab is dedicated to understand the patterns and processes of angiosperm evol
 ## Onboarding Process
 1. Introduction to Lab Policies and Safety Procedures
 
-Please review our [Core Values](https://github.com/Cai-group/Onboarding/blob/main/CORE_VALUES.md) and [Code of conduct](https://github.com/Cai-group/Onboarding/blob/main/CODE_OF_CONDUCT.md). Safety is our top priority. Familiarize yourself with our lab's safety protocols, including proper handling of hazardous materials, emergency procedures, and personal protective equipment (PPE) requirements.
+Please review our [Core Values](https://github.com/Cai-group/Onboarding/blob/main/CORE_VALUES.md) and [Code of Conduct](https://github.com/Cai-group/Onboarding/blob/main/CODE_OF_CONDUCT.md). Safety is our top priority. Familiarize yourself with our lab's safety protocols, including proper handling of hazardous materials, emergency procedures, and personal protective equipment (PPE) requirements.
 
 [Link to Lab Safety Guidelines]
 [Link to Emergency Procedures]
