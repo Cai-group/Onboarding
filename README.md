@@ -9,40 +9,37 @@ Our lab is dedicated to understand the patterns and processes of angiosperm evol
 ## Onboarding Process
 
 ### For everyone
-1. Introduction to Lab Policies and Safety Procedures
+1. Lab Policies
 
-Please review our [Core Values](https://github.com/Cai-group/Onboarding/blob/main/CORE_VALUES.md) and [Code of Conduct](https://github.com/Cai-group/Onboarding/blob/main/CODE_OF_CONDUCT.md). Safety is our top priority. Familiarize yourself with our lab's safety protocols, including proper handling of hazardous materials, emergency procedures, and personal protective equipment (PPE) requirements.
+Please review our [Core Values](https://github.com/Cai-group/Onboarding/blob/main/CORE_VALUES.md) and [Code of Conduct](https://github.com/Cai-group/Onboarding/blob/main/CODE_OF_CONDUCT.md). 
 
-[Link to Lab Safety Guidelines]
-[Link to Emergency Procedures]
+2. Emergency Contact and Laboratory Safety Training
 
-2. Laboratory Training
+Safety is our top priority. Please add your emergency contact to this google spreadsheet. Email Liming (cail@ufl.edu) if you need access to the doc.
 
-Get acquainted with the equipment, techniques, and procedures specific to our lab. Our comprehensive training program ensures that you're well-equipped to conduct experiments safely and efficiently.
+Familiarize yourself with our lab's safety protocols, including proper handling of hazardous materials, emergency procedures, and personal protective equipment (PPE) requirements. All members should complete the UF lab safety [training](https://www.ehs.ufl.edu/training/) before working in the lab. Get acquainted with the equipment, techniques, and procedures specific to our lab. 
 
-[Link to Laboratory Training Materials]
-[Link to Equipment Manuals]
+3. Set up a weekly meeting with Liming
 
-3. Project Overview
+To better understand mentees' needs and provide tailored support, all lab members are encoraged to schedule a weekly meeting with Liming. Please refer to the [meeting protocol](/Weekly_meeting_w_Liming.md) for more details.
 
-Understand the scope and objectives of the projects you'll be working on. Dive into relevant literature, discuss project details with your supervisor, and familiarize yourself with experimental protocols.
+4. Resources and Support
 
-[Link to Project Documentation]
-[Link to Relevant Publications]
+We're here to support your growth and development as a researcher. Access a wealth of resources, including reference materials, online courses, and mentorship opportunities. The majority of lab-shared resources, such as fieldwork/wetlab/drylab protocols, can be found in this [GitHub repository](https://github.com/Cai-group/Protocols). Email Liming if you need to be added to the repository.
 
-4. Collaboration Tools
+Below are some useful links for all community members.
+[Living in Gainesville](https://www.visitgainesville.com/)
 
-Effective communication and collaboration are essential for success in our lab. Explore the tools and platforms we use for project management, data sharing, and team collaboration.
+[UF RecSports](https://recsports.ufl.edu/)
 
-[Link to Communication Channels]
-[Link to Project Management Tools]
+[Florida Museum](https://www.floridamuseum.ufl.edu/)
 
-5. Resources and Support
+### For graduate students
 
-We're here to support your growth and development as a researcher. Access a wealth of resources, including reference materials, online courses, and mentorship opportunities.
+### For postdocs
 
-[Link to Resource Library]
-[Link to Mentorship Program]
+### For undergraduate students
+
 
 ## Get Started
 Ready to dive in? Begin your onboarding journey by exploring the resources provided in this repository. If you have any questions or need assistance, don't hesitate to reach out to Liming Cai (cail@ufl.edu) or a fellow team member.
