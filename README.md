@@ -4,7 +4,7 @@ Whether you're a seasoned researcher or a newcomer to the world of laboratory sc
 
 ## About Us
 
-Our lab is dedicated to understand the patterns and processes of angiosperm evolution via the integrative application of fieldwork, wetlab techniques, and biodiversity informatics. We strive to foster an inclusive and collaborative environment where curiosity thrives, and innovative research flourishes.
+Our lab is dedicated to understanding the patterns and processes of angiosperm evolution via the integrative application of fieldwork, wetlab techniques, and biodiversity informatics. We strive to foster an inclusive and collaborative environment where curiosity thrives, and innovative research flourishes.
 
 ## Onboarding Process
 
@@ -21,13 +21,16 @@ Familiarize yourself with our lab's safety protocols, including proper handling 
 
 3. Set up a weekly meeting with Liming
 
-To better understand mentees' needs and provide tailored support, all lab members are encoraged to schedule a weekly meeting with Liming. Please refer to the [meeting protocol](/Weekly_meeting_w_Liming.md) for more details.
+To better understand mentees' needs and provide tailored support, all lab members are encouraged to schedule a weekly meeting with Liming. Please refer to the [meeting protocol](/Weekly_meeting_w_Liming.md) for more details.
 
-4. Resources and Support
+4. Lab meetings
 
-We're here to support your growth and development as a researcher. Access a wealth of resources, including reference materials, online courses, and mentorship opportunities. The majority of lab-shared resources, such as fieldwork/wetlab/drylab protocols, can be found in this [GitHub repository](https://github.com/Cai-group/Protocols). Email Liming if you need to be added to the repository.
+Lab meetings are important opportunities for lab members to share technical skills, get feedback, and develop a sense of belonging in the lab. Our lab meetings provide a safe space for anyone to share, improve, and grow. Please refer to the [lab meeting protocol](https://github.com/Cai-group/Onboarding/blob/main/Lab-meetings.md) for more details.
+  
+5. Resources and Support
 
-Below are some useful links for all community members.
+We're here to support your growth and development as a researcher. Access a wealth of resources, including reference materials, online courses, and mentorship opportunities. The majority of lab-shared resources, such as fieldwork/wetlab/drylab protocols, can be found in this [GitHub repository](https://github.com/Cai-group/Protocols). Email Liming if you need to be added to the repository. Below are some useful links for all community members.
+
 [Living in Gainesville](https://www.visitgainesville.com/)
 
 [UF RecSports](https://recsports.ufl.edu/)
