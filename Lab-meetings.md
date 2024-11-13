@@ -5,7 +5,7 @@
 As the lab grows, the importance of sharing technical skills, domain expertise and tips and tricks for working effectively grows with it.
 Lab meetings are a safe space for all members of the group to build communities and trouble shoot.
 
-The meetings are held at the ## on Thursdays at 3pm.
+The meetings are held at the _____(time to be determined).
 Remote participation will always be available and is strongly encouraged for lab members who are not on campus that day.
 The [Cai Lab calendar](https://calendar.google.com/calendar/embed?src=7nar31c6ni4esif8fn1881kgds%40group.calendar.google.com) shows the times of the meetings.
 
@@ -35,7 +35,7 @@ Your responsibilities as chair are to:
 1. Announce the time, location, and topic of the meeting
 2. Plan an agenda. We can discuss research, polish a manuscript/talk, give a workshop, or read a really exciting paper that does not need to be plant related.  
 3. Facilitate the conversation during the meeting
-  This includes making sure that everyone has a chance to participate, and that everyone complies with the Cai Lab [code of conduct](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md).
+  This includes making sure that everyone has a chance to participate, and that everyone complies with the Cai Lab [code of conduct](https://github.com/Cai-group/Onboarding/blob/main/CODE_OF_CONDUCT.md).
   
   **Monitoring an effective discussion is a very important skill!**
   Being in charge of managing the time, coordinating everyone's participation and facilitating a productive conversation is a lot of responsibility. Mastering this skill will serve you well in future collaborations and as you advance through your career (inside of academia and beyond).
