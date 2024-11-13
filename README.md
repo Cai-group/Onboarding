@@ -8,7 +8,7 @@ Our lab is dedicated to understanding the patterns and processes of angiosperm e
 
 ## Onboarding Process
 
-### For everyone
+### I. For everyone
 **1. Lab Policies**
 
 Please review our [Core Values](https://github.com/Cai-group/Onboarding/blob/main/CORE_VALUES.md) and [Code of Conduct](https://github.com/Cai-group/Onboarding/blob/main/CODE_OF_CONDUCT.md). 
@@ -37,11 +37,14 @@ We're here to support your growth and development as a researcher. Access a weal
 
 [Florida Museum](https://www.floridamuseum.ufl.edu/)
 
-### For graduate students
+### II. For graduate students and prospective students
 
-### For postdocs
+Please review the [graduate student expectations](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Cai_GradStudentExpectations_040723.docx) to get a sense of what it looks like to work in the lab. If you are mentoring a undergraduate student, please go to the [mentor handbook](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Mentor%20Handbook.docx) and follow the instructions.
 
-### For undergraduate students
+### III. For postdocs
+
+### IV. For undergraduate students
+
 
 
 ## Get Started
