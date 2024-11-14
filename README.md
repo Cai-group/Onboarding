@@ -39,13 +39,15 @@ We're here to support your growth and development as a researcher. Access a weal
 
 ### II. For graduate students and prospective students
 
-Please review the [graduate student expectations](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Cai_GradStudentExpectations_040723.docx) to get a sense of what it looks like to work in the lab. If you are mentoring a undergraduate student, please go to the [mentor handbook](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Mentor%20Handbook.docx) and follow the instructions.
+Please review the [graduate student expectations](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Cai_GradStudentExpectations_040723.docx) to get a sense of what it looks like to work in the lab. If you are mentoring an undergraduate student, please go to the [mentor handbook](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Mentor%20Handbook.docx) and follow the instructions.
 
 ### III. For postdocs
 
+Thank you for sharing your research expertise and helping us advance our work together. If you are mentoring an undergraduate student, please go to the [mentor handbook](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Mentor%20Handbook.docx) and follow the instructions. If you are preparing for the job market, feel free to check out the [Job Hunting Protocols](https://github.com/Cai-group/Protocols/tree/main/Academic_job_packet) in Cai Lab's protocol repository.
+
 ### IV. For undergraduate students
 
-
+Please review the [Mentee Handbook](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/The%20Mentee%20Handbook.docx) and follow the instructions. Feel free to explore, learn, and support our team members' projects along the way. I also encorage you to develop your own project. Research funding to support local fieldtrips, sequencing, and conference presentations will be available from UF and professional societies.
 
 ## Get Started
 Ready to dive in? Begin your onboarding journey by exploring the resources provided in this repository. If you have any questions or need assistance, don't hesitate to reach out to Liming Cai (cail@ufl.edu) or a fellow team member.
