@@ -1,6 +1,6 @@
 # Welcome to the Cai Lab@UF! 
 
-Whether you're a seasoned researcher or a newcomer to the world of laboratory science, we're thrilled to have you join our team. This repository serves as your guide to the onboarding process to the Cai Lab, designed to provide you with all the necessary resources, information, and guidance to kickstart your journey effectively.
+Whether you're a seasoned researcher or a newcomer to the world of plant biodiversity science, we're thrilled to have you join our team. This repository serves as your guide to the onboarding process to the Cai Lab, designed to provide you with all the necessary resources, information, and guidance to kickstart your journey effectively.
 
 ## About Us
 
