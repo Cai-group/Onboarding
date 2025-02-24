@@ -10,6 +10,6 @@ For any questions regarding UFIT, go to their help center: https://support.rc.uf
 
 Introduction to Git and GitHub https://ufl.instructure.com/enroll/TWR9LR
 
-# AI
+# III. AI
 
 Practicum AI: Beginner Series Courses https://www.rc.ufl.edu/get-started/practicum-ai/
