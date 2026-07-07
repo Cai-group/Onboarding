@@ -1,1 +1,0 @@
-See the Funding repository [here](https://github.com/Cai-group/Funding)
