@@ -1,3 +1,11 @@
+# I. Lab safety
+
+For anyone who needs to work in the wet lab, please complete the following training:
+- Chemical Hygiene Plan (EHS869)
+- General Biosafety Training (EHS853)
+- Hazardous Waste Management (EHS809)
+ Register with EHS myTraining: https://www.ehs.ufl.edu/training/ehs-courses/
+
 # I. HyperGator training
 
 UFIT quick start https://docs.rc.ufl.edu/quickstart/introduction/
