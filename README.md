@@ -17,7 +17,10 @@ Please review our [Core Values](https://github.com/Cai-group/Onboarding/blob/mai
 
 Safety is our top priority. Please add your emergency contact to this google spreadsheet. Email Liming (cail@ufl.edu) if you need access to the doc.
 
-Familiarize yourself with our lab's safety protocols, including proper handling of hazardous materials, emergency procedures, and personal protective equipment (PPE) requirements. All members should complete the UF lab safety [training](https://www.ehs.ufl.edu/training/) before working in the lab. Get acquainted with the equipment, techniques, and procedures specific to our lab. 
+Familiarize yourself with our lab's safety protocols, including proper handling of hazardous materials, emergency procedures, and personal protective equipment (PPE) requirements. All members should complete the UF lab safety [training](https://www.ehs.ufl.edu/training/) before working in the lab. Get acquainted with the equipment, techniques, and procedures specific to our lab. If you work in the wet lab, please complete the following [EHS training](https://www.ehs.ufl.edu/training/ehs-courses/):
+- Chemical Hygiene Plan (EHS869)
+- General Biosafety Training (EHS853)
+- Hazardous Waste Management (EHS809)
 
 **3. Set up a weekly meeting with Liming**
 
