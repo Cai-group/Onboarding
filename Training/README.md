@@ -6,7 +6,7 @@ For anyone who needs to work in the wet lab, please complete the following train
 - Hazardous Waste Management (EHS809)
  Register with EHS myTraining: https://www.ehs.ufl.edu/training/ehs-courses/
 
-# I. HyperGator training
+# II. HyperGator training
 
 UFIT quick start https://docs.rc.ufl.edu/quickstart/introduction/
 
@@ -14,10 +14,10 @@ HiPerGator User Training https://go.ufl.edu/hpg-training
 
 For any questions regarding UFIT, go to their help center: https://support.rc.ufl.edu/
 
-# II. Github
+# III. Github
 
 Introduction to Git and GitHub https://ufl.instructure.com/enroll/TWR9LR
 
-# III. AI
+# IV. AI
 
 Practicum AI: Beginner Series Courses https://www.rc.ufl.edu/get-started/practicum-ai/
