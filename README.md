@@ -42,7 +42,7 @@ We're here to support your growth and development as a researcher. Access a weal
 
 [The Pantry](https://pantry.fieldandfork.ufl.edu/about/visit/)
 
-[International student resources @UF](https://github.com/Cai-group/Onboarding/blob/main/international_students.md)
+[International student resources](https://github.com/Cai-group/Onboarding/blob/main/international_students.md)
 
 ### II. For graduate students and prospective students
 
