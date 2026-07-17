@@ -40,7 +40,7 @@ We're here to support your growth and development as a researcher. Access a weal
 
 [Florida Museum](https://www.floridamuseum.ufl.edu/)
 
-And additional list of resources for international students: see [here](https://github.com/Cai-group/Onboarding/blob/main/international_students.md)
+[International student resources @UF](https://github.com/Cai-group/Onboarding/blob/main/international_students.md)
 
 ### II. For graduate students and prospective students
 
