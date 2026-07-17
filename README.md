@@ -40,6 +40,8 @@ We're here to support your growth and development as a researcher. Access a weal
 
 [Florida Museum](https://www.floridamuseum.ufl.edu/)
 
+And additional list of resources for international students: see [here](https://github.com/Cai-group/Onboarding/blob/main/international_students.md)
+
 ### II. For graduate students and prospective students
 
 Please review the [graduate student expectations](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Cai_GradStudentExpectations_040723.docx) to get a sense of what it looks like to work in the lab. If you are mentoring an undergraduate student, please go to the [mentor handbook](https://github.com/Cai-group/Onboarding/blob/main/Mentoring_Protocols/Mentor%20Handbook.docx) and follow the instructions.
